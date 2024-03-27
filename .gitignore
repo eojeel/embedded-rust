@@ -1,0 +1,10 @@
+# Target build artifacts
+/target/
+
+# IDE/Editor temporary files and configurations 
+**/.vscode/
+**/.idea/
+**/.DS_Store  
+
+# Other potential build outputs
+Cargo.lock
